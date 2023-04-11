@@ -1,1 +1,0 @@
-console.log('BMW ABC Frontend Bootcamp')
